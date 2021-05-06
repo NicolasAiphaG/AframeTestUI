@@ -43,5 +43,5 @@ AFRAME.registerComponent('highlight', {
       buttonEls[i].play();
       buttonEls[i].emit('mouseleave');
     }
-  }
+  } 
 });
